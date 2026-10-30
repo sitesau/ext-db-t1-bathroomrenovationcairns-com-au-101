@@ -1,0 +1,22 @@
+{
+  "wheel_id": 559,
+  "structure": "umbrella",
+  "slug": "ext-db-t1-bathroomrenovationcairns-com-au-101",
+  "project": "bathroom-renovation-cairns-timeline-615126a2910393a88012cfa958c",
+  "parent_t1_ref": "ext-db-t1-bathroomrenovationcairns-com-au-150",
+  "node_role": "feeder",
+  "money_target": "bathroomrenovationcairns.com.au",
+  "primary_kw": "bathroom renovation cairns timeline",
+  "intended_url": "http://bathroom-renovation-cairns-timeline-615126a2910393a88012cfa958c.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "ae367f2dcebd883f",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/ext-db-t1-bathroomrenovationcairns-com-au-150/",
+      "anchor": "a guide to bathroom renovation cairns signs you need",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
